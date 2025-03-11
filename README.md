@@ -8,9 +8,9 @@ Welcome to the **Business Insights 360** Power BI project, designed to provide A
 
 ## 📊 Live Dashboard & Profile
 
-🔗 **Live Dashboard:** [https://app.powerbi.com/view?r=eyJrIjoiZTk5OThiNzgtOTExMC00YzEyLTg5OTEtOGNlODNjZGRhMjQxIiwidCI6IjVlNmRjOTI0LTcwMjgtNGE0Yi05ZDdkLTlhNmRiYWFkMjIxOCJ9&pageName=73fb44085dc094c246c0]
+🔗 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTk5OThiNzgtOTExMC00YzEyLTg5OTEtOGNlODNjZGRhMjQxIiwidCI6IjVlNmRjOTI0LTcwMjgtNGE0Yi05ZDdkLTlhNmRiYWFkMjIxOCJ9&pageName=73fb44085dc094c246c0)
 
-🔗 **LinkedIn Profile:** [https://www.linkedin.com/in/abhishek-vaidya-b11221205/]
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/abhishek-vaidya-b11221205/)
 
 ---
 
@@ -92,3 +92,4 @@ Utilize **Power BI** to enhance AtliQ Hardware's data analytics capabilities and
 This **Business Insights 360** dashboard revolutionizes how AtliQ Hardware interprets data, providing deep business intelligence through Power BI. By integrating multiple datasets and optimizing visualizations, this project enhances strategic decision-making and performance tracking across the company.
 
 📢 **Stay tuned for more updates and improvements!** 🚀
+
